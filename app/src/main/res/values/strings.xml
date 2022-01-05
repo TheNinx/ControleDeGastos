@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">ControleDeGastos</string>
+    <string name="distancia">Distância</string>
+    <string name="preco">Preço</string>
+    <string name="Autonomia">Autonomia</string>
+    <string name="km_por_litro">Km por Litro</string>
+    <string name="preco_por_litro">Preço Por Litro</string>
+    <string name="seu_gasto_total_sera_de_aproximadamente">Seu Gasto Total Sera De Aproximadamente</string>
 </resources>
